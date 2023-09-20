@@ -168,8 +168,8 @@ class DataMerge():
         
 
 
-dc1 = DataCleaner(r'C:\Users\yashu\Desktop\RGE', 'rge_22-23.xlsx')
-dc2=DataCleaner(r'C:\Users\yashu\Desktop\RGE','YT_605.xlsx')
+dc1 = DataCleaner(r'C:\Users\yashu\Desktop\RGE', 'rge_22-23.xlsx') # april 2022-march-23 data
+dc2=DataCleaner(r'C:\Users\yashu\Desktop\RGE','YT_605.xlsx') # april-23 to july-23 data
 
 # this dictionary needs to be updated when adding new categories
 dict1 = {
